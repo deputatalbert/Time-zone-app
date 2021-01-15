@@ -1,4 +1,4 @@
-github pages : https://deputatalbert.github.io/Time-zone-app/.
+github pages : https://deputatalbert.github.io/Time-zone-app/
 
 Краткое описание приложения и выбранных технологий.
 
