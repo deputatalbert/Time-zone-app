@@ -1,5 +1,12 @@
 github pages : https://deputatalbert.github.io/Time-zone-app/.
 
+Краткое описание приложения и выбранных технологий.
+Реализованы стрелочные часы с аналоговым и цифровым отображением времени в разных городах. Анимация реализована с помощь CSS + нативного JS. 
+В работе использовал функциональные React компоненты, хуки (useState, useEffect).
+Redux для управления состоянием приложения.
+Для работы с объектом Date была использована вся сила и мощь JS, без использования сторонних библиотек.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
