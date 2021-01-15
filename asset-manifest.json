@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Time-zone-app/static/css/main.f9805c76.chunk.css",
+    "main.js": "/Time-zone-app/static/js/main.1aa19fff.chunk.js",
+    "main.js.map": "/Time-zone-app/static/js/main.1aa19fff.chunk.js.map",
+    "runtime-main.js": "/Time-zone-app/static/js/runtime-main.66fed9cf.js",
+    "runtime-main.js.map": "/Time-zone-app/static/js/runtime-main.66fed9cf.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Time-zone-app/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5c1462d9.chunk.js": "/Time-zone-app/static/js/2.5c1462d9.chunk.js",
+    "static/js/2.5c1462d9.chunk.js.map": "/Time-zone-app/static/js/2.5c1462d9.chunk.js.map",
+    "index.html": "/Time-zone-app/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Time-zone-app/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.f9805c76.chunk.css.map": "/Time-zone-app/static/css/main.f9805c76.chunk.css.map",
+    "static/js/2.5c1462d9.chunk.js.LICENSE.txt": "/Time-zone-app/static/js/2.5c1462d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66fed9cf.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5c1462d9.chunk.js",
+    "static/css/main.f9805c76.chunk.css",
+    "static/js/main.1aa19fff.chunk.js"
+  ]
+}
